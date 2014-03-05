@@ -9,6 +9,7 @@ Link github:
   https://github.com/NitrotechInternshipSession/AndroidApps.git
   
 Docs:
-  http://www.youtube.com/watch?v=oXlQzs76QIQ
-  https://www.mediafire.com/?yxaofk1hxn6euwf
+  Debug : http://www.youtube.com/watch?v=oXlQzs76QIQ
+  Programming : https://www.mediafire.com/?yxaofk1hxn6euwf
+  Design Patterns : http://www.oodesign.com/
 
