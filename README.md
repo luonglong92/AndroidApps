@@ -8,6 +8,7 @@ Environment :
 Link github:
   https://github.com/NitrotechInternshipSession/AndroidApps.git
   
-Docs: 
+Docs:
+  http://www.youtube.com/watch?v=oXlQzs76QIQ
   https://www.mediafire.com/?yxaofk1hxn6euwf
 
